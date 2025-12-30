@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CWH_11_Strings {
+public class CWH_11_strings {
 
     public static void main(String[] args) {
        // String name = new String("Pratyush");
