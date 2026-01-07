@@ -16,8 +16,8 @@ public class cwh_24_methods {
         int b = 7;
         int c;
         // Method Invocation using Object Creation
-//        cwh_24_methods obj = new cwh_24_methods();
-//        c = obj.logic(a, b);
+        // cwh_24_methods obj = new cwh_24_methods();
+        // c = obj.logic(a, b);
           c = logic(a, b);
 
         int a1 = 2;
