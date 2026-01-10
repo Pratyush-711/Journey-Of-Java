@@ -15,6 +15,6 @@ public class cwh_27_recursion {
     }
     public static void main(String[] args) {
         int n = 5;
-        System.out.println("Factorial of a number: " + factorial(n));
+        System.out.println("Factorial of a number8: " + factorial(n));
     }
 }
