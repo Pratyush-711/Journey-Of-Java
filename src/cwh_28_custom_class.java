@@ -1,4 +1,4 @@
-class Employee {
+class Employee1 {
     int id;
     String name;
     int salary;
@@ -15,8 +15,8 @@ class Employee {
 public class cwh_28_custom_class {
     public static void main(String[] args) {
         System.out.println("This is our custom class");
-        Employee Pratyush = new Employee(); // Instantiating a new Employee Object
-        Employee John = new Employee(); // Instantiating a new Employee Object
+        Employee1 Pratyush = new Employee1(); // Instantiating a new Employee Object
+        Employee1 John = new Employee1(); // Instantiating a new Employee Object
         // Setting Attributes
         Pratyush.id = 113;
         Pratyush.name = "Pratyush Manivansh";
